@@ -1,0 +1,5 @@
+2023-04-03 00:31:56.560213 - Initialized conversion of CBT472
+2023-04-03 00:31:56.692306 - Received CBT.V504.FILE472.PDS from FILE472.XMI 
+2023-04-03 00:31:56.695212 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE472.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:31:56.696462 - Found @FILE472.txt (text/plain) in CBT.V504.FILE472.PDS, moved to PDS/@FILE472
+2023-04-03 00:31:56.698320 - Found MURPHY.txt (text/plain) in CBT.V504.FILE472.PDS, moved to PDS/MURPHY
